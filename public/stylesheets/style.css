@@ -1,8 +1,16 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #b90000;
 }
 
 a {
   color: #00B7FF;
+}
+
+h1 {
+  text-align: center;
 }
